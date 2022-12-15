@@ -8,7 +8,7 @@
 
   <h3 align="center">Classification of tumors from the breast cancer ultrasound images</h3>
   <p align="center">
-  <img width="80" height="50" src="https://github.com/apoorwagupta/Digital_Image_Processing/blob/main/img1.jpg?raw=true">
+  <img width="80" height="50" src="https://github.com/apoorwagupta/Digital_Image_Processing/blob/mainProject%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img1.jpg?raw=true">
 </p>
 <hr>
 <br />
