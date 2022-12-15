@@ -9,7 +9,8 @@
 <h3 align="center">Classification of tumors from the breast cancer ultrasound images</h3>
   
 <p align="center">
-  <img src="https://github.com/apoorwagupta/Digital_Image_Processing/blob/main/Project%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img1.jpg?raw=true">
+  <img src=" https://github.com/apoorwagupta/Digital_Image_Processing/blob/e844642bf0f39eff22a7f283d413e11155f0c216/Project%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img1.jpg">
+ 
 </p>
 
 <hr>
@@ -31,7 +32,7 @@ Breast cancer is the most common disease in women, accounting for nearly 1 in 3 
 
 
 
-### ![Dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
+### [Dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
 
 The dataset utilised is the widely-utilized Breast Cancer Ultrasound dataset. There are 657 instances and 2 classes in it (benign and malignant). The distribution of classes is as follows: 210 malignant (34.5%) and 447 benign (65.5%) diseases.
 
@@ -40,7 +41,7 @@ The dataset utilised is the widely-utilized Breast Cancer Ultrasound dataset. Th
 
 ### Project flow
 <p align="center">
-  <img src="https://github.com/apoorwagupta/Digital_Image_Processing/blob/main/Project%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img2.jpg" title="hover text">
+  <img src=" https://github.com/apoorwagupta/Digital_Image_Processing/blob/e844642bf0f39eff22a7f283d413e11155f0c216/Project%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img2.jpg" title="hover text">
 </p>
 
 
