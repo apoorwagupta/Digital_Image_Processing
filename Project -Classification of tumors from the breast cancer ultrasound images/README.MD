@@ -7,8 +7,9 @@
   
 
   <h3 align="center">Classification of tumors from the breast cancer ultrasound images</h3>
-  <a href="">
-    <img  alt="Logo" width="80" height="80">
+  <a href="https://github.com/apoorwagupta/
+Digital_Image_Processing/blob/main/img1.jpg?raw=true">
+    <img  alt="Logo" width="80" height="40">
   </a>
   <p align="center">
     
@@ -39,8 +40,13 @@ The dataset utilised is the widely-utilized Breast Cancer Ultrasound dataset. Th
 
 <hr>
 
+### Project flow
 
-The flow of project is as follows: 
+<a href="https://github.com/apoorwagupta/
+Digital_Image_Processing/blob/main/img2.jpg?raw=true">
+    <img  alt="Logo" width="60" height="60" align = "center">
+  </a>
+""
 
 1. Identifying the problem and Data Sources
 
