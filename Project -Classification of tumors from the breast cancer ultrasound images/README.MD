@@ -7,15 +7,11 @@
   
 
   <h3 align="center">Classification of tumors from the breast cancer ultrasound images</h3>
-  <a href="https://github.com/apoorwagupta/
-Digital_Image_Processing/blob/main/img1.jpg?raw=true">
-    <img  alt="Logo" width="80" height="40">
-  </a>
   <p align="center">
-    
-    <hr>
-    <br />
-  </p>
+  <img width="80" height="50" src="https://github.com/apoorwagupta/Digital_Image_Processing/blob/main/img1.jpg?raw=true">
+</p>
+<hr>
+<br />
 </div>
 
 
