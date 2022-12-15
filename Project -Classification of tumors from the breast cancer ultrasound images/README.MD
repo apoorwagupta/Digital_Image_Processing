@@ -6,10 +6,12 @@
 <div align="center">
   
 
-  <h3 align="center">Classification of tumors from the breast cancer ultrasound images</h3>
-  <p align="center">
-  <img width="80" height="50" src="https://github.com/apoorwagupta/Digital_Image_Processing/blob/mainProject%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img1.jpg?raw=true">
+<h3 align="center">Classification of tumors from the breast cancer ultrasound images</h3>
+  
+<p align="center">
+  <img src="https://github.com/apoorwagupta/Digital_Image_Processing/blob/main/Project%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img1.jpg" title="hover text">
 </p>
+
 <hr>
 <br />
 </div>
@@ -37,12 +39,11 @@ The dataset utilised is the widely-utilized Breast Cancer Ultrasound dataset. Th
 <hr>
 
 ### Project flow
+<p align="center">
+  <img src="https://github.com/apoorwagupta/Digital_Image_Processing/blob/main/Project%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img2.jpg" title="hover text">
+</p>
 
-<a href="https://github.com/apoorwagupta/
-Digital_Image_Processing/blob/main/img2.jpg?raw=true">
-    <img  alt="Logo" width="60" height="60" align = "center">
-  </a>
-""
+
 
 1. Identifying the problem and Data Sources
 
