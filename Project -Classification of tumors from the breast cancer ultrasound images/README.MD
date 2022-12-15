@@ -9,7 +9,7 @@
 <h3 align="center">Classification of tumors from the breast cancer ultrasound images</h3>
   
 <p align="center">
-  <img src="https://github.com/apoorwagupta/Digital_Image_Processing/blob/main/Project%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img1.jpg">
+  <img src="https://github.com/apoorwagupta/Digital_Image_Processing/Project%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img1.jpg">
 </p>
 
 <hr>
@@ -25,13 +25,13 @@
 ### About 
 Breast cancer is the most common disease in women, accounting for nearly 1 in 3 cancers diagnosed in women in the United States, and is the second leading cause of cancer death in women. Breast cancer occurs as a result of abnormal cell growth in the breast tissue, commonly known as a tumour. A tumor is not synonymous with cancer – tumors can be benign (noncancerous), precancerous (precancerous) or malignant (cancerous).  Tests such as MRI, mammography, ultrasound, and biopsy are commonly used to diagnose breast cancer.This project uses binary classification and classifies a breast cancer tumor:
 
-    * 1 = Malignant (Cancerous) 
-    * 0 = Benign (Not Cancerous) 
+* 1 = Malignant (Cancerous) 
+* 0 = Benign (Not Cancerous) 
 
 
 
 
-### [!Dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
+### ![Dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
 
 The dataset utilised is the widely-utilized Breast Cancer Ultrasound dataset. There are 657 instances and 2 classes in it (benign and malignant). The distribution of classes is as follows: 210 malignant (34.5%) and 447 benign (65.5%) diseases.
 
