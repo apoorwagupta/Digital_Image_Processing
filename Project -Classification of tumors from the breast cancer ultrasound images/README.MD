@@ -11,7 +11,7 @@
 <p align="center">
  
   
-  ![My Image](../Images/img1.jpg)
+  ![My Image](https://github.com/apoorwagupta/Digital_Image_Processing/blob/20615905acaf511dc3f182cc5197fa63e8918e5d/Project%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img1.jpg)
  
 </p>
 
