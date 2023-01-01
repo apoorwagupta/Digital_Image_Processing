@@ -9,7 +9,9 @@
 <h3 align="center">Classification of tumors from the breast cancer ultrasound images</h3>
   
 <p align="center">
-  <img src="https://github.com/apoorwagupta/Digital_Image_Processing/blob/main/main/Project%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img1.jpg">
+ 
+  
+  ![My Image](../Images/img1.jpg)
  
 </p>
 
@@ -41,7 +43,7 @@ The dataset utilised is the widely-utilized Breast Cancer Ultrasound dataset. Th
 
 ### Project flow
 <p align="center">
-  <img src="https://github.com/apoorwagupta/Digital_Image_Processing/blob/main/main/Project%20-Classification%20of%20tumors%20from%20the%20breast%20cancer%20ultrasound%20images/Images/img2.png" title="Flow Diagram">
+  ![My Image](../Images/img2.jpg)
 </p>
 
 
