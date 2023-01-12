@@ -6,26 +6,15 @@ The project folder contains the project made as a part of end term evaluation of
 The code is written in Python and should compile and run on Windows , Linux and MacOS. The code may be completed in or Visual Studio. The program works with all files such as JPEG, PNG, etc.
 <hr>
 
-## Project
+## Project :Classification of tumors from the breast cancer ultrasound images
 
 
 
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  
 
-<h3 align="center">Classification of tumors from the breast cancer ultrasound images</h3>
-  
-<p align="center">
- 
- 
-</p>
 
 <hr>
-<br />
-</div>
 
 
 
