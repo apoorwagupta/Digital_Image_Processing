@@ -14,9 +14,6 @@ The code is written in Python and should compile and run on Windows , Linux and 
 <!-- PROJECT LOGO -->
 
 
-<hr>
-
-
 
 
 
